@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+<!DOTYPE html>
 <html>
 <body>
 
-<h1>My first PHP page</h1>
+<h1>My first demo  change page <h1>
 
 <?php
 echo "Hello World!";
